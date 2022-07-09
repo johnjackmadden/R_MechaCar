@@ -7,6 +7,7 @@
 ## Summary Statistics of the Suspension Coils
 ### After the Suspension coil CSV was converted into a dataframe, I converted it into two different tables: Total Summary and Lot Summary. The total summary table is looking at the total PSI accross all lots while the Lot Summary shows the statistics of each individual lot. As listed in the tables below, the main outlier in this lot data set is Lot 3, with a much larger standard deviation
 ![viz2](/Resources/totalsum.png)
+
 ![viz3](/Resources/lotsum.png)
 ## T-Test on Suspension Coils
 ### Comparing all 3 lots against the standard 1500 PSI baseline, we can see some level of varience for this group of coils
